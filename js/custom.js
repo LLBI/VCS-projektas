@@ -57,14 +57,16 @@ $(document).ready(function() {
     });
 
 /* --- FANCYBOX GALLERY SCRIPT --- */
+    
+    // http://localhost/lukas-html
     $('#gallery1').click(function(){
         $.fancybox.open([
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal01-01.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal01-01.jpg',
                 opts : {caption : 'First caption'}
             },
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal02-02.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal02-02.jpg',
                 opts : {caption : 'Second caption'}
             },
         ], 
@@ -82,11 +84,11 @@ $(document).ready(function() {
     $('#gallery2').click(function(){
         $.fancybox.open([
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal02-01.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal02-01.jpg',
                 opts : {caption : 'First caption'}
             },
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal02-02.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal02-02.jpg',
                 opts : {caption : 'Second caption'}
             },
         ], 
@@ -104,11 +106,11 @@ $(document).ready(function() {
     $('#gallery3').click(function(){
         $.fancybox.open([
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal03-01.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal03-01.jpg',
                 opts : {caption : 'First caption'}
             },
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal03-02.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal03-02.jpg',
                 opts : {caption : 'Second caption'}
             },
         ], 
@@ -126,11 +128,11 @@ $(document).ready(function() {
     $('#gallery4').click(function(){
         $.fancybox.open([
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal04-01.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal04-01.jpg',
                 opts : {caption : 'First caption'}
             },
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal04-02.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal04-02.jpg',
                 opts : {caption : 'Second caption'}
             },
         ], 
@@ -148,11 +150,11 @@ $(document).ready(function() {
     $('#gallery5').click(function(){
         $.fancybox.open([
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal05-01.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal05-01.jpg',
                 opts : {caption : 'First caption'}
             },
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal05-02.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal05-02.jpg',
                 opts : {caption : 'Second caption'}
             },
         ], 
@@ -170,11 +172,11 @@ $(document).ready(function() {
     $('#gallery6').click(function(){
         $.fancybox.open([
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal06-01.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal06-01.jpg',
                 opts : {caption : 'First caption'}
             },
             {
-                src  : 'http://localhost/lukas-html/images/gallery/gal06-02.jpg',
+                src  : 'https://hedragris.github.io/VCS-projektas/images/gallery/gal06-02.jpg',
                 opts : {caption : 'Second caption'}
             },
         ], 
