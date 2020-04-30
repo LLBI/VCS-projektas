@@ -1,5 +1,5 @@
 # First project made from scratch during Full-Stack bootcamp
-## [View live demo](https://hedragris.github.io/VCS-projektas/) (PHP disabled)
+## [View live demo](https://hedragris.github.io/VCS-projektas/) #### (PHP disabled)
 #### Process of creation:
 - Cropping PSD template;
 - Marking up structure;
