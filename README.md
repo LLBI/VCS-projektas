@@ -8,7 +8,7 @@
 - Adding some minor animations using jQuery and vanilla JS;
 - Making design fully responsive;
 
-- And most importantly - making code easy to ready.
+- And most importantly - making code easy to read.
 
 
 
